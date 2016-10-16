@@ -16,8 +16,8 @@
 строки, оперировать выходными данными на уровне сложения строк,
 сложения строк и числовых данных. */
 
-package basictypes;
-public class BasicTypesFirst {
+package hometasks.basictypes.task1;
+public class App {
     public static void main(String[] args) {
         System.out.println("Здравствуй мир");
         String s = "Я умею "

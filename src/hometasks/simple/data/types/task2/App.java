@@ -4,8 +4,8 @@
 ­ площадь окружности
 ­ площадь кольца */
 
-package basictypes;
-public class SimpleDataTypesSecond {
+package hometasks.simple.data.types.task2;
+public class App {
     public static void main(String[] args) {
         int R = 20;
         int r = 10;

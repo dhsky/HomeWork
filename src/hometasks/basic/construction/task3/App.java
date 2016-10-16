@@ -6,12 +6,12 @@
 предложение компонуется из набора строк, взятого последовательно из 1, 2, 3, 4
 массива строк случайным образом. */
 
-package basictypes;
+package hometasks.basic.construction.task3;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class BasicConstructionThird {
+public class App {
     static Scanner scanner = new Scanner(System.in);
     static Random r = new Random();
     

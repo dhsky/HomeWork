@@ -7,11 +7,11 @@
 ● сумму элементов, кратных 7
 ● произведение элементов, кратных 3 */
 
-package basictypes;
+package hometasks.basic.construction.task4;
 
 import java.util.Scanner;
 
-public class BasicConstructionFourth {
+public class App {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Введите ваш массив");

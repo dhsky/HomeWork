@@ -5,8 +5,8 @@
 ● объем шара, площадь поверхности шара
 ● объем, площадь поверхности прямоугольного параллелепипеда
 ● объем, площадь поверхности тетраэдра */
-package basictypes;
-public class BasicTypesThird {
+package hometasks.basictypes.task3;
+public class App {
     public static void main(String[] args) {
         int R = 20;
         int r = 10;
@@ -43,8 +43,8 @@ public class BasicTypesThird {
         int VTet = d * d * h1/3;
         int STet = 4 * d * apof / 2;
         
-        System.out.println("объем тетраэдра составляет: " + VTet);
-        System.out.println("площадь поверхности тетраэдра составляет: " + STet);
+        System.out.println("Объем тетраэдра составляет: " + VTet);
+        System.out.println("Площадь поверхности тетраэдра составляет: " + STet);
         
     }
 }

@@ -5,8 +5,8 @@
 ● периметр треугольника, площадь треугольника
 ● периметр, площадь прямоугольника
  */
-package basictypes;
-public class BasicTypesSecond {
+package hometasks.basictypes.task2;
+public class App {
     public static void main(String[] args) {
         int R = 20;
         int r = 10;
