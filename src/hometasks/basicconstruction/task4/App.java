@@ -7,7 +7,7 @@
 ● сумму элементов, кратных 7
 ● произведение элементов, кратных 3 */
 
-package hometasks.basic.construction.task4;
+package hometasks.basicconstruction.task4;
 
 import java.util.Scanner;
 

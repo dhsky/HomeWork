@@ -4,7 +4,7 @@
 ­ объем полого цилиндра
 ­ площадь боковой поверхности цилиндра (не полого) */
 
-package hometasks.simple.data.types.task3;
+package hometasks.simpledatatypes.task3;
 public class App {
     public static void main(String[] args) {
         int R = 20;

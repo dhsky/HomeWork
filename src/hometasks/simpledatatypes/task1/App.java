@@ -3,7 +3,7 @@
 2.Создать в программе текстовую переменную (String) с произвольным текстом
 размещенную на нескольких строках кода. Вывести текст в консоль. */
 
-package hometasks.simple.data.types.task1;
+package hometasks.simpledatatypes.task1;
 public class App {
     public static void main(String[] args) {
         System.out.println("Здравствуй Мир");

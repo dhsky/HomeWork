@@ -6,7 +6,7 @@
 предложение компонуется из набора строк, взятого последовательно из 1, 2, 3, 4
 массива строк случайным образом. */
 
-package hometasks.basic.construction.task3;
+package hometasks.basicconstruction.task3;
 
 import java.util.Random;
 import java.util.Scanner;

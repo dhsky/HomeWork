@@ -4,7 +4,7 @@
 ­ площадь окружности
 ­ площадь кольца */
 
-package hometasks.simple.data.types.task2;
+package hometasks.simpledatatypes.task2;
 public class App {
     public static void main(String[] args) {
         int R = 20;

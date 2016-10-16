@@ -3,7 +3,7 @@
 операции сравнения реализовать приложение, которое выводит в консоль текстовое
 представление случайного целого числа в диапазоне от 0 до 99 включительно. */
 
-package hometasks.basic.construction.task2;
+package hometasks.basicconstruction.task2;
 public class App {
     public static void main(String[] args) {
         
